@@ -56,7 +56,7 @@ alx-listing-app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/HoussamBouajjioune/alx-listing-app.git
+   git clone https://github.com/evansandawa/alx-listing-app.git
    cd alx-listing-app
    ```
 
